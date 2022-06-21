@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Polygon Mumbai Testnet",
+      "unavailable": false,
+      "icons": "",
+      "image": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
+      "chainId": 80001,
+      "rpcUrl": " https://rpc-mumbai.maticvigil.com/",
+      "mintingAddress":"0xA3b35ECC8FD153BaecdDF6d0DfBB8AbB33F8D7E3"
+    },
+    {
+      "id": 2,
+      "name": "Ethereum",
+      "unavailable": false,
+      "icons": "",
+      "image":"https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
+      "chainId": 4,
+      "rpcUrl": "https://rinkeby.infura.io/v3/",
+      "mintingAddress":"0x9e4B153F487ED145ba36C524404ceFB0f019C937"
+    },
+    {
+      "id": 3,
+      "name": "Binance Smart Chain",
+      "unavailable": false,
+      "icons": "",
+      "image":"https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
+      "chainId": 97,
+      "rpcUrl": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+      "mintingAddress":"0xE5154fd24ba35E731464D1B5bfE0E8527d116B2e"
+    },
+    {
+      "id": 4,
+      "name": "Avalance C chain",
+      "unavailable": false,
+      "icons": "",
+      "image":"https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818",
+      "chainId": 43113,
+      "rpcUrl": "https://api.avax-test.network/ext/bc/C/rpc",
+      "mintingAddress":"0xf9A7f49D96C3A34c3354F7960541Bd37bf3415E2"
+    },
+    {
+      "id": 5,
+      "name": "Fantom",
+      "unavailable": false,
+      "icons": "",
+      "image": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png?1558015016",
+      "chainId": 4002,
+      "rpcUrl": "https://rpc.testnet.fantom.network/"
+    }
+  ]

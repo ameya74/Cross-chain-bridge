@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Polygon Mumbai Testnet",
+      "image": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
+      "chainName": "Mumbai Testnet",
+      "chainId": 80001,
+      "rpcUrl": " https://speedy-nodes-nyc.moralis.io/a61a52180976b08f4ff81c83/polygon/mumbai",
+      "symbol": "MATIC",
+      "nativeName": "Polygon",
+      "apiName": "mumbai",
+      "burningAddress":"0x168FEB2D039B81CD6725C8ba18f2d26F5a03FA1c"
+    },
+    {
+      "id": 2,
+      "name": "Ethereum",
+      "image": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
+      "chainName": "Rinkeby Test Network",
+      "chainId": 4,
+      "rpcUrl": "https://rinkeby.infura.io/v3/",
+      "symbol": "ETH",
+      "nativeName": "rinkeby",
+      "apiName": "rinkeby",
+      "burningAddress":"0x9f3953835f4cbfa7d0aeb66e7b5e02981fa10b75"
+    },
+    {
+      "id": 3,
+      "name": "Binance Smart Chain",
+      "unavailable": false,
+      "icons": "",
+      "image":"https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
+      "chainName": "Smart Chain - Testnet",
+      "chainId": 97,
+      "rpcUrl": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+      "symbol": "BNB",
+      "nativeName": "Binance Coin",
+      "apiName": "bsc testnet",
+      "burningAddress":"0x003fcb28ebbd3841cD8f529aF553fc31Bc4FBb23"
+    },
+    {
+      "id": 4,
+      "name": "Avalance C chain",
+      "unavailable": false,
+      "icons": "",
+      "image":"https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818",
+      "chainName": "Avalanche FUJI C-Chain",
+      "chainId": 43113,
+      "rpcUrl": "https://api.avax-test.network/ext/bc/C/rpc",
+      "symbol": "AVAX",
+      "nativeName": "Avalanche",
+      "apiName": "avalanche testnet",
+      "burningAddress":"0xC3aeD37C25178a0feD05E7FBe68Db8D3D207380F"
+    },
+    {
+      "id": 5,
+      "name": "Fantom",
+      "unavailable": false,
+      "icons": "",
+      "image":"https://assets.coingecko.com/coins/images/4001/small/Fantom.png?1558015016",
+      "chainName": "Fantom testnet",
+      "chainId": 4002,
+      "rpcUrl": "https://rpc.testnet.fantom.network/",
+      "symbol": "FTM",
+      "nativeName": "Fantom",
+      "apiName": "fantom"
+    }
+  ]
